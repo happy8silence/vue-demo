@@ -95,7 +95,7 @@
     }
 
     #app .el-menu--horizontal .el-menu-item:not(.is-disabled):hover {
-        background-color: #fff !important;
+        background-color: #66b1ff !important;
         color: #fff !important;
     }
 

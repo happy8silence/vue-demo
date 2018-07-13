@@ -46,11 +46,11 @@
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
     .iap-footer {
-        background-color: #020307;
+        background-color: #66b1ff;
         padding: 40px 30px 0 30px;
-        color: #999;
+        color: #fff;
         p:hover{
-            color: #66b1ff;
+            color: #000f;
         }
         .footer-href {
             text-align: left;
@@ -66,11 +66,11 @@
             display: flex;
             margin-left: 20px;
             padding-bottom: 50px;
-            border-bottom: 1px solid #999;
+            border-bottom: 1px solid #fff;
             .footer-div {
                 flex: 35%;
                 padding: 0 40px;
-                border-right: 1px solid #555;
+                border-right: 1px solid #fff;
                 p {
                     text-align: left;
                 }
