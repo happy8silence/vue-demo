@@ -46,6 +46,7 @@
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
     .iap-footer {
+       // height: 200px;
         background-color: #66b1ff;
         padding: 40px 30px 0 30px;
         color: #fff;
@@ -65,7 +66,7 @@
         .footer-top-wrapper {
             display: flex;
             margin-left: 20px;
-            padding-bottom: 50px;
+         //   padding-bottom: 50px;
             border-bottom: 1px solid #fff;
             .footer-div {
                 flex: 35%;
@@ -83,7 +84,7 @@
             }
         }
         .footer-bottom-wrapper {
-            padding: 15px 0;
+          //  padding: 15px 0;
             p {
                 margin: 0;
                 text-align: center;
